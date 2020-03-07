@@ -1,4 +1,4 @@
-# UI Test Automation for Android App with Appium
+# UI Test Automation with Appium for Android App
 
 App: Thuisbezorgd.nl (Can be downloaded from [here](https://www.apkfollow.com/app/thuisbezorgd-nl-order-food-online/com.takeaway.android/))
 
